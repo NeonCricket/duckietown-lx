@@ -2,6 +2,8 @@
 <img src="./braitenberg/assets/images/dtlogo.png" alt="Duckietown Logo" width="50%">
 </p>
 
+git clone -b mooc2022 git@github.com:<NeonCricket>/duckietown-lx
+
 # **Duckietown Learning Experiences (LX) - MOOC Exercises**
 
 # About this repository
